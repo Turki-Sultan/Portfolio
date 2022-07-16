@@ -1,0 +1,107 @@
+*{
+    user-select: none;
+    font-family:serif;
+    font-weight: 900;
+}
+.night{
+    background:rgba(0, 0, 0, 0.767);
+    color: rgb(0, 0, 0);
+} 
+.frome{
+    padding-left: 25px;
+    flex: auto;
+}
+.black{
+    background-color: black;
+    color: rgb(149, 190, 243);
+}
+.sign{
+   /*  padding-top:20px ; */
+    padding-left: 20px;
+}
+.dropdown:hover .dropdown-menu{
+    display: block;
+}
+.hi{
+    background-color: black;
+    border-radius: 20px;
+    position: absolute;
+    top: 13rem;
+}
+.span{
+    background-color: black;
+    border-radius: 20px;
+}
+/* .img{
+    height: 200px;
+   
+} */
+.brpg-bputom{
+    margin-top: 50px;
+}
+.brog{
+  margin: 0 5px;
+}
+.nav-link{
+   color: rgb(127, 47, 184);
+   margin-left: 3px;
+   font-family: cursive;
+}
+.nav-link:hover{
+    color: rgb(11, 34, 55);
+ }
+.svo{
+    color: black;
+   margin: 5px 5px;
+   
+}
+.header{
+    position: absolute;
+    top: 60px;
+    right: 700px; 
+    background: rgb(221, 221, 195);
+    height: 150px;
+    width: 30%;
+    padding: 15px 15px;
+    border-radius: 20px;
+}
+.cart{
+    margin-left: 60px;
+}
+a{
+    text-decoration: none;
+   
+}
+.header2{
+    right: 50px;
+}
+.fade{
+    border: solid 2px rgba(22, 15, 15, 0.219);
+    border-top: none;
+    padding: 1.4rem;
+}
+/* .carousel-card{
+  
+} */
+.card{
+    border: solid 2px rgba(22, 15, 15, 0.219);
+}
+.card-img img{
+    width: 100%;
+}
+.cours-body{
+    padding: .3rem;
+    font-family: cursive;
+}  
+.cardt{
+    margin-top: 2rem;
+}
+svg{
+    color: gold;
+    cursor: pointer;
+}
+.img_page{
+   height: 20rem;
+   width: 100%;
+
+}
