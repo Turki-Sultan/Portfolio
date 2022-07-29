@@ -296,6 +296,9 @@ a{
 .col-md-4 h5{
     color: rgb(122, 134, 134);
 }
+#te:focus{
+    animation: sc 5s 1 alternate;
+}
 /* -------------------skills--------------- */
 .progress{
 height: 25px;
